@@ -1,0 +1,4 @@
+﻿  NewsTracker.cpp
+  NewsTracker.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+MSVCRT.lib(exe_winmain.obj) : error LNK2019: unresolved external symbol WinMain referenced in function "int __cdecl __scrt_common_main_seh(void)" (?__scrt_common_main_seh@@YAHXZ)
+C:\Users\sheha\source\repos\NewsTrackerApp\x64\Release\NewsTrackerApp.exe : fatal error LNK1120: 1 unresolved externals

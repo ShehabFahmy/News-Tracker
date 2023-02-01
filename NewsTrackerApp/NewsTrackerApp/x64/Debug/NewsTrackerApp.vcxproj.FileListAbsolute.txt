@@ -1,0 +1,4 @@
+C:\Users\sheha\source\repos\NewsTrackerApp\NewsTrackerApp\x64\Debug\NewsTrackerApp.vcxproj.AssemblyReference.cache
+C:\Users\sheha\source\repos\NewsTrackerApp\NewsTrackerApp\x64\Debug\NewsTrackerApp.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\sheha\source\repos\NewsTrackerApp\NewsTrackerApp\x64\Debug\NewsTrackerApp.NewsTracker.resources
+C:\Users\sheha\source\repos\NewsTrackerApp\NewsTrackerApp\x64\Debug\NewsTrackerApp.vcxproj.GenerateResource.cache
